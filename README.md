@@ -12,4 +12,4 @@ Install Node
 
 Install NPM packages npm install
 
-Start app with node index
+Start app with node app
